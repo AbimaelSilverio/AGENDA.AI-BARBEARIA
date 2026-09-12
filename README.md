@@ -4,7 +4,7 @@
 
 ## Nome do Projeto
 
-**BarberTech**
+**AGENDA.AI**
 
 ## Integrantes da Equipe
 
