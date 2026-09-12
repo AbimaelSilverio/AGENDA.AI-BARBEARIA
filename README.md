@@ -4,7 +4,7 @@
 
 ## Nome do Projeto
 
-**AGENDA.AI**
+**AGENDA.AI BARBEARIA**
 
 ## Integrantes da Equipe
 
