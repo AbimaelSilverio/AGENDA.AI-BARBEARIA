@@ -1,6 +1,5 @@
 # AGENDA.AI BARBER ✂️💈
-Um sistema de gestão e agendamento para barbearias:
- [**Acessar a Documentação Completa na Wiki do Projeto**](https://github.com/AbimaelSilverio/AGENDA.AI-BARBEARIA/wiki/Agenta.Ai-Barber)
+Um sistema de gestão e agendamento para barbearias
 
 ## Integrantes da Equipe
 - Abimael Ferreira Silvério
@@ -33,4 +32,4 @@ O sistema permitirá que os clientes realizem seus próprios agendamentos, consu
 * **Controle e Automação:** Além disso, o sistema contará com lembretes de agendamento e um módulo básico de controle financeiro, permitindo registrar e acompanhar as receitas e despesas da barbearia.
 
 ## Documentação e Revisão Sistemática (Wiki)
-Para conferir em detalhes o escopo completo, a lista de termos e sinônimos, a string de busca, os critérios de inclusão/exclusão e os resumos dos artigos acadêmicos que fundamentam teoricamente o projeto, acesse a nossa página de documentação na [Wiki do Projeto](https://github.com/AbimaelSilverio/AGENDA.AI-BARBEARIA/wiki/Agenta.Ai-Barber).
+Para conferir em detalhes o escopo completo, a lista de termos e sinônimos, a string de busca, os critérios de inclusão/exclusão e os resumos dos artigos acadêmicos que fundamentam teoricamente o projeto, acesse a nossa página de documentação na [Wiki do Projeto](https://github.com/AbimaelSilverio/AGENDA.AI-BARBEARIA/wiki/Agenta.Ai-Barber)
