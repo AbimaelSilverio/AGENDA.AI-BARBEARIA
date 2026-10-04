@@ -1,19 +1,19 @@
 # AGENDA.AI BARBEARIA ✂️💈
-
-> Sistema de Gestão e Agendamento para Barbearias
+Sistema de Gestão e Agendamento para Barbearias
 
 [**Acessar a Documentação Completa na Wiki do Projeto**](https://github.com/AbimaelSilverio/AGENDA.AI-BARBEARIA/wiki/Agenta.Ai-Barber)
 
 ---
 
-## ntegrantes da Equipe
+## Integrantes da Equipe
 
 - Abimael Ferreira Silvério
 - Eronildo Francisco da Silva
 - Victor Matos Teonorio
 - João Vitor Vicente Fadini
-- Matheus
-- Luiz
+- Matheus Lopes
+- Leonardo Vilela 
+
 
 ---
 
