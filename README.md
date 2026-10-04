@@ -1,38 +1,25 @@
 # AGENDA.AI BARBER ✂️💈
 Sistema de Gestão e Agendamento para Barbearias
 
-[**Acessar a Documentação Completa na Wiki do Projeto**](https://github.com/AbimaelSilverio/AGENDA.AI-BARBEARIA/wiki/Agenta.Ai-Barber)
-
----
+🔗 [**Acessar a Documentação Completa na Wiki do Projeto**](https://github.com/AbimaelSilverio/AGENDA.AI-BARBEARIA/wiki/Agenta.Ai-Barber)
 
 ## Integrantes da Equipe
-
 - Abimael Ferreira Silvério
 - Eronildo Francisco da Silva
 - Victor Matos Teonorio
 - João Vitor Vicente Fadini
 - Matheus Lopes
-- Leonardo Vilela 
-
-
----
+- Leonardo Vilela
 
 ## Tema Escolhido
-
 Desenvolvimento de um sistema de gestão e agendamento online para barbearias, com recursos para organização da agenda, agendamento de clientes e controle financeiro básico.
 
----
-
 ## Objetivo do Sistema
-
 Desenvolver um sistema simples e integrado que permita às barbearias gerenciar seus agendamentos, organizar a disponibilidade de horários e facilitar o atendimento aos clientes.
 
 O sistema permitirá que os clientes realizem seus próprios agendamentos, consultem os horários disponíveis em tempo real e recebam lembretes automáticos. Também será disponibilizado um módulo básico para controle financeiro da barbearia.
 
----
-
 ## Tecnologias que Serão Utilizadas Durante o Semestre
-
 - HTML
 - CSS
 - JavaScript
@@ -41,24 +28,10 @@ O sistema permitirá que os clientes realizem seus próprios agendamentos, consu
 - Banco de Dados
 - Inteligência Artificial
 
----
-
 ## Breve Descrição do Funcionamento do Sistema
-
 * **Gestão e Cadastros:** O sistema permitirá que a barbearia cadastre clientes, serviços e horários disponíveis, possibilitando o gerenciamento da agenda de forma organizada.
 * **Autoatendimento:** Os clientes poderão acessar o sistema, visualizar os horários disponíveis e realizar seus próprios agendamentos. A agenda será atualizada conforme novos horários forem reservados.
 * **Controle e Automação:** Além disso, o sistema contará com lembretes de agendamento e um módulo básico de controle financeiro, permitindo registrar e acompanhar as receitas e despesas da barbearia.
 
----
-
 ## Documentação e Revisão Sistemática (Wiki)
-
-Para conferir em detalhes o escopo completo, a lista de termos e sinônimos, a string de busca, os critérios de inclusão/exclusão e os resumos dos artigos acadêmicos que fundamentam teoricamente o projeto, acesse a nossa página de documentação:
-
-## Breve Descrição do Funcionamento do Sistema
-
-O sistema permitirá que a barbearia cadastre clientes, serviços e horários disponíveis, possibilitando o gerenciamento da agenda de forma organizada.
-
-Os clientes poderão acessar o sistema, visualizar os horários disponíveis e realizar seus próprios agendamentos. A agenda será atualizada conforme novos horários forem reservados.
-
-Além disso, o sistema contará com lembretes de agendamento e um módulo básico de controle financeiro, permitindo registrar e acompanhar as receitas e despesas da barbearia.
+Para conferir em detalhes o escopo completo, a lista de termos e sinônimos, a string de busca, os critérios de inclusão/exclusão e os resumos dos artigos acadêmicos que fundamentam teoricamente o projeto, acesse a nossa página de documentação na [Wiki do Projeto](https://github.com/AbimaelSilverio/AGENDA.AI-BARBEARIA/wiki/Agenta.Ai-Barber).
