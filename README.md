@@ -1,7 +1,6 @@
 # AGENDA.AI BARBER ✂️💈
-Sistema de Gestão e Agendamento para Barbearias
-
  [**Acessar a Documentação Completa na Wiki do Projeto**](https://github.com/AbimaelSilverio/AGENDA.AI-BARBEARIA/wiki/Agenta.Ai-Barber)
+Sistema de Gestão e Agendamento para Barbearias
 
 ## Integrantes da Equipe
 - Abimael Ferreira Silvério
